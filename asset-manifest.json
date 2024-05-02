@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/MoetezDevelops/static/css/main.49bbd16f.css",
-    "main.js": "/MoetezDevelops/static/js/main.efcd1e42.js",
-    "static/js/415.4d6acbeb.chunk.js": "/MoetezDevelops/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/MoetezDevelops/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/MoetezDevelops/static/css/main.ccb2f878.css",
+    "main.js": "/MoetezDevelops/static/js/main.46892c30.js",
+    "static/js/453.ace21015.chunk.js": "/MoetezDevelops/static/js/453.ace21015.chunk.js",
+    "static/media/CV - JLIDI MOETEZ.pdf": "/MoetezDevelops/static/media/CV - JLIDI MOETEZ.b644cee6ea17c63d8b3d.pdf",
     "static/media/leaf.png": "/MoetezDevelops/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/MoetezDevelops/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/MoetezDevelops/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -12,18 +12,17 @@
     "static/media/home-main.svg": "/MoetezDevelops/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/MoetezDevelops/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/MoetezDevelops/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/MoetezDevelops/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
     "static/media/home-bg.jpg": "/MoetezDevelops/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/MoetezDevelops/static/media/logo.9cd1d9ffc2155f427203.png",
     "static/media/avatar.svg": "/MoetezDevelops/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/MoetezDevelops/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MoetezDevelops/index.html",
-    "main.49bbd16f.css.map": "/MoetezDevelops/static/css/main.49bbd16f.css.map",
-    "main.efcd1e42.js.map": "/MoetezDevelops/static/js/main.efcd1e42.js.map",
-    "415.4d6acbeb.chunk.js.map": "/MoetezDevelops/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/MoetezDevelops/static/js/787.1ed0c42c.chunk.js.map"
+    "main.ccb2f878.css.map": "/MoetezDevelops/static/css/main.ccb2f878.css.map",
+    "main.46892c30.js.map": "/MoetezDevelops/static/js/main.46892c30.js.map",
+    "453.ace21015.chunk.js.map": "/MoetezDevelops/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49bbd16f.css",
-    "static/js/main.efcd1e42.js"
+    "static/css/main.ccb2f878.css",
+    "static/js/main.46892c30.js"
   ]
 }
