@@ -1,7 +1,7 @@
-{
+{ 
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://moetezjlidi.github.io/react-gh-pages",
+  "homepage": "https://moetezjlidi.github.io/MoetezDevelops",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
@@ -23,10 +23,10 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
+  "scripts": {  
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
