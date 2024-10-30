@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/MoetezDevelops/static/css/main.ccb2f878.css",
-    "main.js": "/MoetezDevelops/static/js/main.d91a40c0.js",
+    "main.js": "/MoetezDevelops/static/js/main.bac4365a.js",
     "static/js/453.ace21015.chunk.js": "/MoetezDevelops/static/js/453.ace21015.chunk.js",
-    "static/media/leaf.png": "/MoetezDevelops/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/MoetezDevelops/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/MoetezDevelops/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/MoetezDevelops/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/MoetezDevelops/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/valorant.jpg": "/MoetezDevelops/static/media/valorant.a2db3fd179b8b844e9cb.jpg",
+    "static/media/nationalgeographique.jpg": "/MoetezDevelops/static/media/nationalgeographique.2778fa303ecfbdb581d7.jpg",
+    "static/media/cnrs.png": "/MoetezDevelops/static/media/cnrs.0991aaca37699f2f5488.png",
     "static/media/home-main.svg": "/MoetezDevelops/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/MoetezDevelops/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/weatherapp.jpg": "/MoetezDevelops/static/media/weatherapp.b79e924dde161d6fe0e0.jpg",
     "static/media/CV - JLIDI MOETEZ.pdf": "/MoetezDevelops/static/media/CV - JLIDI MOETEZ.c1bab0544cacd6baa380.pdf",
-    "static/media/chatify.png": "/MoetezDevelops/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/LMA.png": "/MoetezDevelops/static/media/LMA.7806902bf272e2452083.png",
+    "static/media/cea.png": "/MoetezDevelops/static/media/cea.f6a4e664b6e3b9ccfbb5.png",
     "static/media/home-bg.jpg": "/MoetezDevelops/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/MoetezDevelops/static/media/logo.9cd1d9ffc2155f427203.png",
     "static/media/avatar.svg": "/MoetezDevelops/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/MoetezDevelops/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MoetezDevelops/index.html",
     "main.ccb2f878.css.map": "/MoetezDevelops/static/css/main.ccb2f878.css.map",
-    "main.d91a40c0.js.map": "/MoetezDevelops/static/js/main.d91a40c0.js.map",
+    "main.bac4365a.js.map": "/MoetezDevelops/static/js/main.bac4365a.js.map",
     "453.ace21015.chunk.js.map": "/MoetezDevelops/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb2f878.css",
-    "static/js/main.d91a40c0.js"
+    "static/js/main.bac4365a.js"
   ]
 }
