@@ -72,7 +72,7 @@ function Projects() {
               title="National Geographic API Explorer"
               description="An application that integrates with the National Geographic API to explore and display stunning images and articles. Built with HTML, Javascript and styled with Tailwind CSS, this app showcases API handling, state management, and responsive design."
               ghLink="https://github.com/moetezjlidi/NationalGeoGraphique"
-              demoLink="https://project-demo-link.com" // Add demo link if available
+              
             />
           </Col>
 
@@ -83,7 +83,7 @@ function Projects() {
               title="Valorant App"
               description="A comprehensive Valorant companion app providing information on agents, maps, and weapons. Built with AndroidStudio and Java, it integrates Valorant data through an API, allowing users to view details and statistics, enhancing their gaming experience."
               ghLink="https://github.com/moetezjlidi/ValorantApp"
-              demoLink="https://project-demo-link.com" // Add demo link if available
+            
             />
           </Col>
 
@@ -94,7 +94,7 @@ function Projects() {
               title="Weather App"
               description="A weather application that fetches real-time weather data from an API. It allows users to check current weather conditions, temperature, and forecasts for any city worldwide. Built with Java and designed with a user-friendly interface."
               ghLink="https://github.com/moetezjlidi/WeatherApp"
-              demoLink="https://project-demo-link.com" // Add demo link if available
+             
             />
           </Col>
         </Row>
