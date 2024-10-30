@@ -6,8 +6,17 @@ import {
   SiLinux,
   SiSony,
   SiAdobephotoshop,
-  SiAdobepremierepro
+  SiAdobepremierepro,
+  SiIntellijidea,
+  SiPycharm,
+  SiGitlab,
 } from "react-icons/si";
+import {
+ 
+  DiGit,
+  DiIntellij,
+
+} from "react-icons/di";
 
 function Toolstack() {
   return (
@@ -29,6 +38,18 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiSony />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGitlab />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiIntellijidea/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPycharm />
       </Col>
     </Row>
   );
