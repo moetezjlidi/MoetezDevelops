@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/MoetezDevelops/static/css/main.ccb2f878.css",
-    "main.js": "/MoetezDevelops/static/js/main.996a31a2.js",
+    "main.js": "/MoetezDevelops/static/js/main.d91a40c0.js",
     "static/js/453.ace21015.chunk.js": "/MoetezDevelops/static/js/453.ace21015.chunk.js",
-    "static/media/CV - JLIDI MOETEZ.pdf": "/MoetezDevelops/static/media/CV - JLIDI MOETEZ.b644cee6ea17c63d8b3d.pdf",
     "static/media/leaf.png": "/MoetezDevelops/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/MoetezDevelops/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/MoetezDevelops/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -11,6 +10,7 @@
     "static/media/blog.png": "/MoetezDevelops/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/MoetezDevelops/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/MoetezDevelops/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CV - JLIDI MOETEZ.pdf": "/MoetezDevelops/static/media/CV - JLIDI MOETEZ.c1bab0544cacd6baa380.pdf",
     "static/media/chatify.png": "/MoetezDevelops/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/MoetezDevelops/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/MoetezDevelops/static/media/logo.9cd1d9ffc2155f427203.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/MoetezDevelops/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MoetezDevelops/index.html",
     "main.ccb2f878.css.map": "/MoetezDevelops/static/css/main.ccb2f878.css.map",
-    "main.996a31a2.js.map": "/MoetezDevelops/static/js/main.996a31a2.js.map",
+    "main.d91a40c0.js.map": "/MoetezDevelops/static/js/main.d91a40c0.js.map",
     "453.ace21015.chunk.js.map": "/MoetezDevelops/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb2f878.css",
-    "static/js/main.996a31a2.js"
+    "static/js/main.d91a40c0.js"
   ]
 }
