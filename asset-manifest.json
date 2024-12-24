@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MoetezDevelops/static/css/main.ccb2f878.css",
-    "main.js": "/MoetezDevelops/static/js/main.85b2d319.js",
+    "main.js": "/MoetezDevelops/static/js/main.3158e3db.js",
     "static/js/453.ace21015.chunk.js": "/MoetezDevelops/static/js/453.ace21015.chunk.js",
     "static/media/CV - JLIDI MOETEZ.pdf": "/MoetezDevelops/static/media/CV - JLIDI MOETEZ.9b9a393b833da675b3b9.pdf",
     "static/media/avatar.png": "/MoetezDevelops/static/media/avatar.543308f4e768d255f027.png",
@@ -19,11 +19,11 @@
     "static/media/pre.svg": "/MoetezDevelops/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MoetezDevelops/index.html",
     "main.ccb2f878.css.map": "/MoetezDevelops/static/css/main.ccb2f878.css.map",
-    "main.85b2d319.js.map": "/MoetezDevelops/static/js/main.85b2d319.js.map",
+    "main.3158e3db.js.map": "/MoetezDevelops/static/js/main.3158e3db.js.map",
     "453.ace21015.chunk.js.map": "/MoetezDevelops/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb2f878.css",
-    "static/js/main.85b2d319.js"
+    "static/js/main.3158e3db.js"
   ]
 }
