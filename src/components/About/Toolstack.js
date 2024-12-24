@@ -15,6 +15,7 @@ import {
  
   DiGit,
   DiIntellij,
+  DiScrum
 
 } from "react-icons/di";
 
@@ -50,6 +51,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPycharm />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+              <DiScrum />
       </Col>
     </Row>
   );
