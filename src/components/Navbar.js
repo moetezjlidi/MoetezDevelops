@@ -39,15 +39,14 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand href="/MoetezDevelops" className="d-flex">
         <img src={navbar} className="img-fluid" alt="brand" style={{ maxWidth: '40%' }} />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
             updateExpanded(expand ? false : "expanded");
-          }}
-        >
+          }}>
           <span></span>
           <span></span>
           <span></span>
