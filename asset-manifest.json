@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/MoetezDevelops/static/css/main.ccb2f878.css",
-    "main.js": "/MoetezDevelops/static/js/main.3158e3db.js",
+    "main.js": "/MoetezDevelops/static/js/main.089804fb.js",
     "static/js/453.ace21015.chunk.js": "/MoetezDevelops/static/js/453.ace21015.chunk.js",
-    "static/media/CV - JLIDI MOETEZ.pdf": "/MoetezDevelops/static/media/CV - JLIDI MOETEZ.9b9a393b833da675b3b9.pdf",
     "static/media/avatar.png": "/MoetezDevelops/static/media/avatar.543308f4e768d255f027.png",
+    "static/media/CV - JLIDI MOETEZ - CANVA.pdf": "/MoetezDevelops/static/media/CV - JLIDI MOETEZ - CANVA.3f6e37fc0b5b060affa4.pdf",
     "static/media/valorant.jpg": "/MoetezDevelops/static/media/valorant.a2db3fd179b8b844e9cb.jpg",
     "static/media/nationalgeographique.jpg": "/MoetezDevelops/static/media/nationalgeographique.2778fa303ecfbdb581d7.jpg",
     "static/media/cnrs.png": "/MoetezDevelops/static/media/cnrs.0991aaca37699f2f5488.png",
@@ -13,17 +13,19 @@
     "static/media/weatherapp.jpg": "/MoetezDevelops/static/media/weatherapp.b79e924dde161d6fe0e0.jpg",
     "static/media/LMA.png": "/MoetezDevelops/static/media/LMA.7806902bf272e2452083.png",
     "static/media/cea.png": "/MoetezDevelops/static/media/cea.f6a4e664b6e3b9ccfbb5.png",
+    "static/media/camping.jpg": "/MoetezDevelops/static/media/camping.3783f16787dc8be7f045.jpg",
     "static/media/home-bg.jpg": "/MoetezDevelops/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/MoetezDevelops/static/media/logo.9cd1d9ffc2155f427203.png",
+    "static/media/LIS.png": "/MoetezDevelops/static/media/LIS.7a8cb44a6e96be70cc12.png",
     "static/media/avatar.svg": "/MoetezDevelops/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/MoetezDevelops/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MoetezDevelops/index.html",
     "main.ccb2f878.css.map": "/MoetezDevelops/static/css/main.ccb2f878.css.map",
-    "main.3158e3db.js.map": "/MoetezDevelops/static/js/main.3158e3db.js.map",
+    "main.089804fb.js.map": "/MoetezDevelops/static/js/main.089804fb.js.map",
     "453.ace21015.chunk.js.map": "/MoetezDevelops/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb2f878.css",
-    "static/js/main.3158e3db.js"
+    "static/js/main.089804fb.js"
   ]
 }
