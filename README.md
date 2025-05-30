@@ -42,7 +42,7 @@ I am a software developer based in Marseille, France. With experience in develop
 
 ## 📬 Contact
 
-- **Email**: moetez1@live.fr
+- **Email**: moetez.jlidi@gmail.com
 - **LinkedIn**: [Moetez Jlidi](https://www.linkedin.com/in/moetezjlidi)
 
 Feel free to reach out for collaboration, inquiries, or if you just want to connect!
