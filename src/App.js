@@ -20,7 +20,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const [load, upadateLoad] = useState(true);
-  const basename ="/MoetezDevelops"
+  
   useEffect(() => {
     const timer = setTimeout(() => {
       upadateLoad(false);
@@ -30,7 +30,7 @@ function App() {
   }, []);
 
   return (
-    <Router basename={basename}>
+    <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
